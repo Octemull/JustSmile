@@ -1,0 +1,10 @@
+cognitive-face==1.4.2
+face-recognition==1.2.3
+face-recognition-models==0.3.0
+scikit-image==0.14.0
+matplotlib==2.2.3
+opencv-python==3.4.4.19
+scipy==1.1.0
+numpy==1.15.4
+dlib==19.16.0
+imutils==0.5.2
