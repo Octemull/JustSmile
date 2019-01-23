@@ -56,6 +56,6 @@ https://azure.microsoft.com/en-us/try/cognitive-services/my-apis/?api=face-api
   
 # Authors
 - Octemull
-- xxx
-- xxx
-- xxx
+- Jiang
+- Zhou
+- Xiang
