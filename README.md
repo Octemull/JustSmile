@@ -1,3 +1,5 @@
+[中文文档](https://github.com/Octemull/JustSmile/blob/master/README-ch.md)
+
 # Get Start
 Create enviroment, install packages, run examples
 ```
