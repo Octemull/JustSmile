@@ -20,7 +20,7 @@ source activate justsmile
 
 # pip install into environment
 cd $HEAD_DIR
-pip install -r requirements.txt -i https://pypi.tuna.tsinghua.edu.cn/simple
+pip install -r requirements.txt #-i https://pypi.tuna.tsinghua.edu.cn/simple
 
 # Run two examples
 cd $CODE_DIR
