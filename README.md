@@ -1,5 +1,10 @@
 [中文文档](https://github.com/Octemull/JustSmile/blob/master/README-ch.md)
 
+# Demo
+
+[![Watch the video](./img/demo_justsmile.png)](https://www.bilibili.com/video/av47138906)
+
+
 # Get Start
 Create enviroment, install packages, run examples
 ```
