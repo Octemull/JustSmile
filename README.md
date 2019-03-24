@@ -35,8 +35,8 @@ python args_just_smile_auto_v1.py --type 2 --input_image_path "../test_images/p3
 | -----------------|----------------------------- |
 |--input_image_path| The path of your input image|
 |--type             |When type=1, only change mouth. When type=2, change both mouth and eyes.|
-|--mouth_alpha     |Positive float number. The bigger the mouth_alpha is, the more obvious the smile is. Recommend maximum is $1.25$.|
-|--eye_alpha       |Positive float number. The bigger the eye_alpha is, the eyes will be more like cresent shape. Recommend maximum is $1.20$.|
+|--mouth_alpha     |Positive float number. The bigger the mouth_alpha is, the more obvious the smile is. Recommend maximum is 1.25.|
+|--eye_alpha       |Positive float number. The bigger the eye_alpha is, the eyes will be more like cresent shape. Recommend maximum is 1.20.|
 
 **Mouth vs Alpha**
 ![](./img/Alpha_mouth.png)

@@ -33,8 +33,8 @@ python args_just_smile_auto_v1.py --type 2 --input_image_path "../test_images/p3
 | -----------------|----------------------------- |
 |--input_image_path| 待处理图像的路径|
 |--type             |当 type=1时, 仅改变嘴唇. 当 type=2时, 同时改变嘴唇和眼睛.|
-|--mouth_alpha     |正小数. mouth_alpha越大, 微笑看起来越明显. 推荐的最大值为 $1.25$.|
-|--eye_alpha       |正小数. eye_alpha越大, 眼睛会越像月牙形. 推荐的最大值为 $1.20$.|
+|--mouth_alpha     |正小数. mouth_alpha越大, 微笑看起来越明显. 推荐的最大值为 1.25.|
+|--eye_alpha       |正小数. eye_alpha越大, 眼睛会越像月牙形. 推荐的最大值为 1.20.|
 
 **Mouth vs Alpha**
 ![](./img/Alpha_mouth.png)
