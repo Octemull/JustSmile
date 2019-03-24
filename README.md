@@ -2,7 +2,7 @@
 
 # Demo
 
-[![Watch the video](./img/demo_justsmile.png)](https://www.bilibili.com/video/av47138906)
+[![Watch the video](./img/demo_link_bilibili.png)](https://www.bilibili.com/video/av47138906)
 
 
 # Get Start
