@@ -4,6 +4,8 @@
 
 [![Watch the video](./img/demo_link_bilibili.png)](https://www.bilibili.com/video/av47138906)
 
+If above link won't work, take a look at this [link](https://youtu.be/iHTBCI0DAXc).
+
 
 # Get Start
 Create enviroment, install packages, run examples
@@ -54,7 +56,7 @@ All test images are obtained from [Social Relation Dataset](http://mmlab.ie.cuhk
 
 ## Examples
 
-Input images are on the left, output images are on the right. And there won't be any yellow circle in the output images. You can take a look at this [demo](https://youtu.be/iHTBCI0DAXc) to see how it works.
+Input images are on the left, output images are on the right. And there won't be any yellow circle in the output images. 
 
 ### Manual: one person
 ![-w911](img/15482995022644.jpg)

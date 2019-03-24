@@ -1,3 +1,9 @@
+# 效果展示
+
+[![Watch the video](./img/demo_link_bilibili.png)](https://www.bilibili.com/video/av47138906)
+
+如果上述链接无法正常播放，尝试[此链接](https://youtu.be/iHTBCI0DAXc) 。
+
 # 开始
 创建虚拟环境，安装需要的包，运行几个例子。
 ```
